@@ -1,4 +1,4 @@
-package programmers.mon_5.dya0510;
+package programmers.mon_5.day0510;
 
 public class p120904 {
     public int solution(int num, int k) {
